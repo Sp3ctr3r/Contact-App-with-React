@@ -50,7 +50,7 @@ const Contact = () => {
             </div>
           </div>
           <div className="col">
-            {/* Sağ tarafın diğer içeriği */}
+            
           </div>
           <div className="col">
             <div id="accordion">
