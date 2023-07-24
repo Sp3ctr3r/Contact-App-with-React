@@ -1,0 +1,31 @@
+.col{
+  text-align: left;
+}
+.center-row{
+  display: flex;
+  justify-content: center;
+}
+
+.contactBox{
+  border: 1px solid black;
+}
+.form-control:hover{
+  border:none;
+  border-bottom: 1px solid red;
+  box-shadow: none;
+  transition: all 0.8s;
+  font-style: italic;
+}
+.form-control:focus{
+  border:none;
+  border-bottom: 1px solid red;
+  box-shadow: none;
+  font-style: italic;
+}
+.btn{
+  border : 1px solid red;
+  border-radius: 10px;
+}
+.btn:hover{
+  box-shadow: 2px 4px 9px rgb(200, 0, 255);
+}
